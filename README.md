@@ -26,30 +26,32 @@
 
 ## For making new flutter project
 
-1) Go to the `view` -> `command palette` or (press `command+Shift+P`) 
+1) First of all open Visual Studio Code (VSCode)
 
-2) Then select `flutter new project`
+2) Go to the `view` -> `command palette` or (press `command+Shift+P`) 
 
-3) select `application` 
+3) Then select `flutter new project`
 
-4) `Now select where you want to create project and also select folder.`
+4) select `application` 
+
+5) `Now select where you want to create project and also select folder.`
 `If you want to make new folder then first create new folder then select that folder.`
 
-5) After Completing above steps Finally our project file is create.
+6) After Completing above steps Finally our project file is create.
 
 
 
 ## For mak new repository
 
-1) type `git init` in terminal initialized empty git repository
+1) type `git init` in Visual Studio Code terminal for initialized empty git repository.
 
-2) type `git add .`(Note give one space after add)
+2) type `git add .`(Give one space after add).
 
 3) Now go to the git hub account and `make new repository` and then `go to code and copy it.`
 
 4) now go to vscode terminal and type 
 `git remote add origin and paste copied code.`
 
-5) Now go to `Source control` on vscode and `type the commit message`
+5) Now go to `Source control` on vscode and `type the commit message`.
 
 6) `now commit it from comit button` or `command+Shift+p` and then push it.
