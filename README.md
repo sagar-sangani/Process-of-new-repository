@@ -1,5 +1,8 @@
 # Process-of-new-repository
-# Learn how to create new repository
+
+## Learn how to create new repository
+
+# Method :- 1  
 
 1) for create the new depository first of all `login on the github site`
 2) after then click on `+ icon` on the screen so we will get the five options in which we have to select first option `New Repository`
@@ -17,4 +20,36 @@
 
 14) so one folder and README file generated 
 15) now `select & drag` that folder and `put it on visual studio app`
+
  
+# Method :- 2
+
+## For making new flutter project
+
+1) Go to the `view` -> `command palette` or (press `command+Shift+P`) 
+
+2) Then select `flutter new project`
+
+3) select `application` 
+
+4) `Now select where you want to create project and also select folder.`
+`If you want to make new folder then first create new folder then select that folder.`
+
+5) After Completing above steps Finally our project file is create.
+
+
+
+## For mak new repository
+
+1) type `git init` in terminal initialized empty git repository
+
+2) type `git add .`(Note give one space after add)
+
+3) Now go to the git hub account and `make new repository` and then `go to code and copy it.`
+
+4) now go to vscode terminal and type 
+`git remote add origin and paste copied code.`
+
+5) Now go to `Source control` on vscode and `type the commit message`
+
+6) `now commit it from comit button` or `command+Shift+p` and then push it.
