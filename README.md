@@ -28,7 +28,7 @@
 
 1) First of all open Visual Studio Code (VSCode)
 
-2) Go to the `view` -> `command palette` or (press `command+Shift+P`) 
+2) Go to the `view` -> `command palette` or (press `command + Shift + P`) 
 
 3) Then select `flutter new project`
 
@@ -54,4 +54,4 @@
 
 5) Now go to `Source control` on vscode and `type the commit message`.
 
-6) `now commit it from comit button` or `command+Shift+p` and then push it.
+6) `now commit it from comit button` or `command + Shift + p` and then push it.
