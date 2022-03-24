@@ -47,7 +47,7 @@
 
 2) type `git add .`(Give one space after add).
 
-3) Now go to the git hub account and `make new repository` and then `go to code and copy it.`
+3) Now go to the git hub account and `make new repository`  `without README` file and then `go to code and copy it.`
 
 4) now go to vscode terminal and type 
 `git remote add origin and paste copied code.`
