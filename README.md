@@ -1,4 +1,4 @@
-# Process-of-new-repository
+# Process-of-new-repository `for Mack users`
 
 ## Learn how to create new repository
 
