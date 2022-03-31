@@ -6,8 +6,6 @@
 
 1) for create the new depository first of all `install git` and also `login on the github site`
 
-
-
 2) after then click on `+ icon` on the screen so we will get the five options in which we have to ``select first option` `New Repository`
 
 3) now `give the name` to that repository
@@ -51,14 +49,16 @@
 
 4) select `application` 
 
-5) `Now select where you want to create project and also select folder.`
-`If you want to make new folder then first create new folder then select that folder.`
+5) `Now select folder where you want to create project.`
+`If you want to make new folder then first create new folder.`
 
-6) After Completing above steps Finally our project file is create.
+6) `Now select that folder.`
+
+7) After Completing above steps Finally our project file is create.
 
 
 
-## For mak new repository
+## For making new repository
 
 1) type `git init` in Visual Studio Code terminal for initialized empty git repository.
 
@@ -66,10 +66,15 @@
 
 3) Now go to the git hub account and `make new repository`  `without README` file and then `go to code and copy it.`
 
-4) now go to vscode terminal and type 
-`git remote add origin and paste copied code.`
+## For adding the git file to the github
 
-5) Now go to `Source control` on vscode and `type the commit message`.
+1) now go to vscode terminal 
 
-6) `now commit it from comit button` or `command + Shift + p` and then push it.
+2) type `git remote add origin` with `one space` and  `paste copied code` which is copied while creating the repository on git hub.
+
+3) press `enter` button 
+
+4) Now go to `Source control` on vscode and `type the commit message`.
+
+5) `now commit it from comit button` or `command + Shift + p` and then `push it`.
 
